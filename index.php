@@ -24,31 +24,32 @@
                                                                         alt="NFT Marketplace"></a>
                         </div>
 
-<!--                        <p style="margin-bottom:100px;">TFA Platform was designed to supercede existing digital platforms such as Facebook/Meta to the multi-billion person football audience with superior product, web3 privacy, next generation blockchain based integration with NFTs and other blockchain driven services that connect them to the real world as well as to the metaverse.</p>-->
+<!--                        <p style="margin-bottom:100px;">TFA Platform was designed to supe   rcede existing digital platforms such as Facebook/Meta to the multi-billion person football audience with superior product, web3 privacy, next generation blockchain based integration with NFTs and other blockchain driven services that connect them to the real world as well as to the metaverse.</p>-->
 
                     </div>
-                    <div class="home-intro__text2" style="margin-top: 10px;" id="about">
-                        <h2>What is <span class="gen-font-gradient">$TFC?</span></h2>
-                        <p style="max-width: 700px;">TheFutbolCoin (TFC) is the native token of TFA Platform. TFC is needed to interact with many
-                            of the platforms useful features and functionalities. TFC is bridged across from Stellar
-                            (for fast payments and fiat gateways) to Polygon (for NFTs, staking, DAO voting and other
-                            smart contract enabled TFA Platform Dapps).</p>
-                    </div>
 
-
-
-                    <div style="margin-top: 30px;">
-
-                        <div style="margin-top: 30px;display: inline-block;margin-right:40px;">
-                            <a href="https://quickswap.exchange/#/swap?outputCurrency=0xAEB3e641Ec85517A63604CB13FCE73BA22FcC827"><img
-                                        src="assets/img/img-buy-on-quickswap.svg"
-                                        alt="Buy on QuickSwap"></a>
-                        </div>
-                        <div style="margin-top: 30px;display: inline-block;margin-right:40px;">
-                            <a href="https://global.bittrex.com/Market/Index?MarketName=USDT-tfc"><img
-                                        src="assets/img/img-buy-on-bittrex.svg" alt="Buy on Bittrex"></a>
-                        </div>
-                    </div>
+<!--                    <div class="home-intro__text2" style="margin-top: 10px;" id="about">-->
+<!--                        <h2>What is <span class="gen-font-gradient">$TFC?</span></h2>-->
+<!--                        <p style="max-width: 700px;">TheFutbolCoin (TFC) is the native token of TFA Platform. TFC is needed to interact with many-->
+<!--                            of the platforms useful features and functionalities. TFC is bridged across from Stellar-->
+<!--                            (for fast payments and fiat gateways) to Polygon (for NFTs, staking, DAO voting and other-->
+<!--                            smart contract enabled TFA Platform Dapps).</p>-->
+<!--                    </div>-->
+<!---->
+<!---->
+<!---->
+<!--                    <div style="margin-top: 30px;">-->
+<!---->
+<!--                        <div style="margin-top: 30px;display: inline-block;margin-right:40px;">-->
+<!--                            <a href="https://quickswap.exchange/#/swap?outputCurrency=0xAEB3e641Ec85517A63604CB13FCE73BA22FcC827"><img-->
+<!--                                        src="assets/img/img-buy-on-quickswap.svg"-->
+<!--                                        alt="Buy on QuickSwap"></a>-->
+<!--                        </div>-->
+<!--                        <div style="margin-top: 30px;display: inline-block;margin-right:40px;">-->
+<!--                            <a href="https://global.bittrex.com/Market/Index?MarketName=USDT-tfc"><img-->
+<!--                                        src="assets/img/img-buy-on-bittrex.svg" alt="Buy on Bittrex"></a>-->
+<!--                        </div>-->
+<!--                    </div>-->
 
 
                 </div>
@@ -63,42 +64,74 @@
                         <img src="assets/img/temp/home-benefits.png" alt="">
                     </div>
                     <div class="home-benefits__blocks">
-                        <div class="home-benefits__blocks__item">
-                            <div class="home-benefits__blocks__item__img">
-                                <img src="assets/img/temp/home-benefits-1.svg" alt="">
-                            </div>
+                        <div class="home-benefits__blocks__item" style="background-color: unset !important;padding-left: 0px;">
                             <div class="home-benefits__blocks__item__text">
-                                <h5>Community</h5>
-                                <p>$TFC has a vibrant enthusiastic community of HODLers worldwide, growing each day</p>
+                                <h4>What is <span class="gen-font-gradient">$TFC?</span></h4>
+                                <p style="max-width: 700px;">TheFutbolCoin (TFC) is the native token of TFA Platform. TFC is needed to interact with many
+                                    of the platforms useful features and functionalities. TFC is bridged across from Stellar
+                                    (for fast payments and fiat gateways) to Polygon (for NFTs, staking, DAO voting and other
+                                    smart contract enabled TFA Platform Dapps).</p>
+
+                                <div style="margin-top: 30px;display: inline-block;margin-right:40px;">
+                                    <a href="https://quickswap.exchange/#/swap?outputCurrency=0xAEB3e641Ec85517A63604CB13FCE73BA22FcC827"><img
+                                                src="assets/img/img-buy-on-quickswap.svg"
+                                                alt="Buy on QuickSwap"></a>
+                                </div>
+                                <div style="margin-top: 30px;display: inline-block;margin-right:40px;">
+                                    <a href="https://global.bittrex.com/Market/Index?MarketName=USDT-tfc"><img
+                                                src="assets/img/img-buy-on-bittrex.svg" alt="Buy on Bittrex"></a>
+                                </div>
                             </div>
                         </div>
 
-                        <div class="home-benefits__blocks__item">
-                            <div class="home-benefits__blocks__item__img">
-                                <img src="assets/img/temp/home-benefits-2.svg" alt="">
-                            </div>
-                            <div class="home-benefits__blocks__item__text">
-                                <h5>Adoption by Clubs and Businesses</h5>
-                                <p>$TFC is being accepted by clubs and businesses worldwide because of its fast
-                                    transaction speed, low cost, advanced technology ecosystem and its overall
-                                    prospects.</p>
-                            </div>
-                        </div>
-
-                        <div class="home-benefits__blocks__item">
-                            <div class="home-benefits__blocks__item__img">
-                                <img src="assets/img/temp/home-benefits-3.svg" alt="">
-                            </div>
-                            <div class="home-benefits__blocks__item__text">
-                                <h5>Secure store of Wealth</h5>
-                                <p>$TFC is also being used as a secure store of wealth because of its limited supply,
-                                    strong brand and utility model.</p>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </section>
         </section>
+
+<!--        <section class="gen-color-block">-->
+<!--            <section class="home-benefits gen-width gen-rim white-font">-->
+<!--                <div class="home-benefits-inner">-->
+<!--                    <div class="home-benefits__img">-->
+<!--                        <img src="assets/img/temp/home-benefits.png" alt="">-->
+<!--                    </div>-->
+<!--                    <div class="home-benefits__blocks">-->
+<!--                        <div class="home-benefits__blocks__item">-->
+<!--                            <div class="home-benefits__blocks__item__img">-->
+<!--                                <img src="assets/img/temp/home-benefits-1.svg" alt="">-->
+<!--                            </div>-->
+<!--                            <div class="home-benefits__blocks__item__text">-->
+<!--                                <h5>Community</h5>-->
+<!--                                <p>$TFC has a vibrant enthusiastic community of HODLers worldwide, growing each day</p>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!---->
+<!--                        <div class="home-benefits__blocks__item">-->
+<!--                            <div class="home-benefits__blocks__item__img">-->
+<!--                                <img src="assets/img/temp/home-benefits-2.svg" alt="">-->
+<!--                            </div>-->
+<!--                            <div class="home-benefits__blocks__item__text">-->
+<!--                                <h5>Adoption by Clubs and Businesses</h5>-->
+<!--                                <p>$TFC is being accepted by clubs and businesses worldwide because of its fast-->
+<!--                                    transaction speed, low cost, advanced technology ecosystem and its overall-->
+<!--                                    prospects.</p>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!---->
+<!--                        <div class="home-benefits__blocks__item">-->
+<!--                            <div class="home-benefits__blocks__item__img">-->
+<!--                                <img src="assets/img/temp/home-benefits-3.svg" alt="">-->
+<!--                            </div>-->
+<!--                            <div class="home-benefits__blocks__item__text">-->
+<!--                                <h5>Secure store of Wealth</h5>-->
+<!--                                <p>$TFC is also being used as a secure store of wealth because of its limited supply,-->
+<!--                                    strong brand and utility model.</p>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </section>-->
+<!--        </section>-->
 
 
         <section class="home-app-wrap" style="background-image: url('assets/img/temp/home-app-bg.jpg');">
