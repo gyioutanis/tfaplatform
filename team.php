@@ -6,7 +6,7 @@
         <div class="home-intro gen-width gen-rim white-font">
             <div class="home-intro-inner">
                 <div class="home-intro__text">
-                    <img src="assets/img/logo-tfg.png" alt="">
+                    <img src="assets/img/logo-tfa.png" alt="">
                     <br>
                     <br>
                     <h1>TheFutbolCoin</h1>

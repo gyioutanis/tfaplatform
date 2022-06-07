@@ -53,7 +53,7 @@
             <div class="header-inner">
                 <div class="header__logo">
                     <a href="#top">
-                        <img src="assets/img/logo-tfg.png" alt="logo: TFC" width="33">
+                        <img src="assets/img/logo-tfa.png" alt="logo: TFC" width="33">
                         <p>TFA Platform</p>
                     </a>
                 </div>

@@ -39,7 +39,7 @@
         <div class="footer-inner">
             <div class="footer__logo">
                 <a href="#top">
-                    <img src="assets/img/logo-tfg.png" alt="logo: TFC" width="33">
+                    <img src="assets/img/logo-tfa.png" alt="logo: TFC" width="33">
                     <p>TheFutbolCoin</p>
 
 
