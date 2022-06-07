@@ -147,8 +147,7 @@
                     </div>
 
                     <div class="home-app__text">
-                        <p>$TFC is the only way to pay for ads in the fast growing TFA social network.<br>Demand for
-                            advertising = Demand for $TFC</p>
+                        <p>TheFutbolApp (TFA in the app stores) is the flagship app of the TFA platform that attracts community and shows off the underlying power of the TFA Platform to is serve the billion person plus worldwide football community. TFC is the only way to pay for ads in TFA.</p>
                     </div>
 
                     <div class="home-app__icons">
