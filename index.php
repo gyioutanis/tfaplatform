@@ -23,9 +23,7 @@
                         <p>TheFutbolCoin (TFC) is the native token of TFA Platform. TFC is needed to interact with many
                             of the platforms useful features and functionalities. TFC is bridged across from Stellar
                             (for fast payments and fiat gateways) to Polygon (for NFTs, staking, DAO voting and other
-                            smart contract enabled TFA Platform Dapps). The largest holder of TFC is the TFA Worldwide
-                            Association, currently being re-constituted as a DAO with the intent of distributing the
-                            wealth created from the TFA Platform to its participants and sport related charities.</p>
+                            smart contract enabled TFA Platform Dapps).</p>
                     </div>
 
                     <div style="margin-top: 30px;">
