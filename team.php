@@ -9,7 +9,7 @@
                     <img src="assets/img/logo-tfa.png" alt="">
                     <br>
                     <br>
-                    <h1>TheFutbolCoin</h1>
+                    <h1>TFA Platform</h1>
                     <h2><span class="gen-font-gradient">Our Team</span></h2>
                 </div>
 
