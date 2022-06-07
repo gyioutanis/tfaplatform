@@ -6,40 +6,43 @@
             <div class="home-intro gen-width gen-rim white-font">
                 <div class="home-intro-inner">
                     <div class="home-intro__text" style="padding-top:110px;">
-<!--                        <img src="assets/img/logo-tfg.png" alt="">-->
-<!--                        <br>-->
+                        <!--                        <img src="assets/img/logo-tfg.png" alt="">-->
+                        <!--                        <br>-->
                         <br>
-                        <h1>TFA Platform</h1>
+<!--                        <h1>TFA Platform</h1>-->
                         <h2 style="margin-bottom:10px;">Powering the <span class="gen-font-gradient">football</span>
                             <span class="gen-font-gradient">economy</span></h2>
 
-                        <p style="margin-bottom:100px";>TFA Platform is a multi-chain web3 platform with multiple existing applications and services built to power next generation digital interaction between the fans, clubs, players, NFTs, tickets and fan DAO decision making.</p>
-
-
-
+                        <p style="margin-bottom:100px" ;>TFA Platform is a multi-chain web3 platform with multiple
+                            existing applications and services built to power next generation digital interaction
+                            between the fans, clubs, players, NFTs, tickets and fan DAO decision making.</p>
 
                     </div>
                     <div class="home-intro__text2" id="about">
                         <h2>What is <span class="gen-font-gradient">$TFC?</span></h2>
-                        <p>TheFutbolCoin (TFC) is the native token of TFA Platform. TFC is needed to interact with many of the platforms useful features and functionalities. TFC is bridged across from Stellar (for fast payments and fiat gateways) to Polygon (for NFTs, staking, DAO voting and other smart contract enabled TFA Platform Dapps). The largest holder of TFC is the TFA Worldwide Association, currently being re-constituted as a DAO with the intent of distributing the wealth created from the TFA Platform to its participants and sport related charities.</p>
+                        <p>TheFutbolCoin (TFC) is the native token of TFA Platform. TFC is needed to interact with many
+                            of the platforms useful features and functionalities. TFC is bridged across from Stellar
+                            (for fast payments and fiat gateways) to Polygon (for NFTs, staking, DAO voting and other
+                            smart contract enabled TFA Platform Dapps). The largest holder of TFC is the TFA Worldwide
+                            Association, currently being re-constituted as a DAO with the intent of distributing the
+                            wealth created from the TFA Platform to its participants and sport related charities.</p>
                     </div>
 
                     <div style="margin-top: 30px;">
                         <div style="margin-top: 30px;display: inline-block;margin-right:40px;">
-                        <a href="https://thefutbolapp.com/nft"><img src="assets/img/img-buy-nft_market.svg"
-                                                           alt="NFT Marketplace"></a>
+                            <a href="https://thefutbolapp.com/nft"><img src="assets/img/img-buy-nft_market.svg"
+                                                                        alt="NFT Marketplace"></a>
                         </div>
                         <div style="margin-top: 30px;display: inline-block;margin-right:40px;">
-                        <a href="https://quickswap.exchange/#/swap?outputCurrency=0xAEB3e641Ec85517A63604CB13FCE73BA22FcC827"><img src="assets/img/img-buy-on-quickswap.svg"
-                                                           alt="Buy on QuickSwap"></a>
+                            <a href="https://quickswap.exchange/#/swap?outputCurrency=0xAEB3e641Ec85517A63604CB13FCE73BA22FcC827"><img
+                                        src="assets/img/img-buy-on-quickswap.svg"
+                                        alt="Buy on QuickSwap"></a>
                         </div>
                         <div style="margin-top: 30px;display: inline-block;margin-right:40px;">
-                        <a href="https://global.bittrex.com/Market/Index?MarketName=USDT-tfc" ><img
-                                    src="assets/img/img-buy-on-bittrex.svg" alt="Buy on Bittrex"></a>
+                            <a href="https://global.bittrex.com/Market/Index?MarketName=USDT-tfc"><img
+                                        src="assets/img/img-buy-on-bittrex.svg" alt="Buy on Bittrex"></a>
                         </div>
                     </div>
-
-
 
 
                 </div>
