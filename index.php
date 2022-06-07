@@ -5,7 +5,7 @@
         <section class="home-intro-wrap" style="background-image: url('assets/img/temp/home-banner-bg.jpg');">
             <div class="home-intro gen-width gen-rim white-font">
                 <div class="home-intro-inner">
-                    <div class="home-intro__text" style="padding-top:110px;">
+                    <div class="home-intro__text" style="padding-top:110px;max-width: 800px;">
                         <!--                        <img src="assets/img/logo-tfg.png" alt="">-->
                         <!--                        <br>-->
                         <br>
@@ -17,7 +17,7 @@
                             existing applications and services built to power next generation digital interaction
                             between the fans, clubs, players, NFTs, tickets and fan DAO decision making.</p>
 
-                        <p style="margin-bottom:100px;">TFA Platform was designed to supercede existing digital platforms such as Facebook/Meta to the multi-billion person football audience with superior product, web3 privacy, next generation blockchain based integration with NFTs and other blockchain driven services that connect them to the real world as well as to the metaverse.</p>
+<!--                        <p style="margin-bottom:100px;">TFA Platform was designed to supercede existing digital platforms such as Facebook/Meta to the multi-billion person football audience with superior product, web3 privacy, next generation blockchain based integration with NFTs and other blockchain driven services that connect them to the real world as well as to the metaverse.</p>-->
 
                     </div>
                     <div class="home-intro__text2" id="about">
