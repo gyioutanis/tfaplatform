@@ -19,9 +19,9 @@
             <div class="gen-social__item">
                 <a href="https://t.me/tfc_official"><img src="assets/img/icon-telegram--white.svg" alt=""></a>
             </div>
-            <div class="gen-social__item">
-                <a href="https://twitter.com/TheFutbolCoin"><img src="assets/img/icon-twitter--white.svg" alt=""></a>
-            </div>
+<!--            <div class="gen-social__item">-->
+<!--                <a href="https://twitter.com/TheFutbolCoin"><img src="assets/img/icon-twitter--white.svg" alt=""></a>-->
+<!--            </div>-->
             <div class="gen-social__item">
                 <a href="https://facebook.com/thefutbolapp"><img src="assets/img/icon-facebook--white.svg" alt=""></a>
             </div>

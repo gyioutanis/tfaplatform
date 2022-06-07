@@ -134,6 +134,8 @@
 <!--        </section>-->
 
 
+
+
         <section class="home-app-wrap" style="background-image: url('assets/img/temp/home-app-bg.jpg');">
             <div class="home-app gen-width gen-rim white-font">
                 <div class="home-app-inner">
@@ -171,16 +173,111 @@
         </section>
 
 
+        <section class="home-intro-wrap" style="background-color: #000000; background-image: unset;padding-top: 100px;padding-bottom: 100px;">
+            <div class="home-app gen-width gen-rim white-font">
+                <div class="home-app-inner">
+                    <h2 style="font-size: 32px;">In addition to its flagship app, TheFutbolApp, TFA Platform has a suite of apps and services and will soon expose its API to outside developers.
+                    </h2>
+
+                    <div class="de_tab tab_simple" style="background-size: cover;">
+                        <ul class="col-md-12 de_nav">
+                            <li class="active" style="opacity: 1;width: 24%;max-width: 20%;overflow:hidden;padding: 0px;"><span style="font-size: 18px;font-weight: 600;min-height: 80px;">TFA NFT Platform</span>
+                            </li>
+                            <li class="" style="opacity: 1;width: 20%;max-width: 20%;overflow:hidden;padding: 0px;"><span style="font-size: 18px;font-weight: 600;min-height: 80px;">TFA Wallet and Pay System</span></li>
+                            <li class="" style="opacity: 1;width: 20%;max-width: 20%;overflow:hidden;padding: 0px;"><span style="font-size: 18px;font-weight: 600;min-height: 80px;">TFA Platform Trivia and Games</span>
+                            </li>
+                            <li class="" style="opacity: 1;width: 20%;max-width: 20%;overflow:hidden;padding: 0px;"><span style="font-size: 18px;font-weight: 600;min-height: 80px;">TFA blockchain ticketing</span>
+                            </li>
+                        </ul>
+                        <div class="de_tab_content" style="background-size: cover;">
+                            <div class="tab-1" style="background-size: cover;">
+                                <div class="row" style="background-size: cover;">
+                                    <div class="col-md-12 fadeInRight mb30" data-wow-delay=".30s" style="background-size: cover;">
+                                        <div class="de_count text-left" style="background-size: cover;">
+                                            <h5 class="id-color" style="color: #fff;">ballers, Kevin Campbell collection. APOEL FC, China exchange as partner</h5>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="tab-2" style="background-size: cover;">
+                                <div class="row" style="background-size: cover;">
+                                    <div class="col-md-12 fadeInRight mb30" data-wow-delay=".30s" style="background-size: cover;">
+                                        <div class="de_count text-left" style="background-size: cover;">
+                                            <h5 class="id-color" style="color: #fff;">TFA Platform makes it easy for non-crypto people to hold and use tokens, and additionally enables
+                                                businesses to accept payment with tokens while avoiding volatility associated with crypto through its
+                                                unique virtual stable coin credit system. Merchants get fiat credits in the system for sales, then convert
+                                                that to TFC at the moment they cash out so price stays stable. Close to a hundred businesses in
+                                                Cyprus accept TFC in exchange for goods and services.</h5>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="tab-3" style="background-size: cover;">
+                                <div class="row" style="background-size: cover;">
+                                    <div class="col-md-12 fadeInRight mb30" data-wow-delay=".30s" style="background-size: cover;">
+                                        <div class="de_count text-left" style="background-size: cover;">
+                                            <h5 class="id-color" style="color: #fff;">	TFA has developed some popular games including:
+                                                Predictions Leagues -  daily predictions leagues and competitions with TFC prizes
+                                                BallerDash - an NFT based arcade game that is used with our very own ballers NFT collection
+                                            </h5>
+                                            <br>
+                                            <p>pandaMONIUM - a floppy birds style game using Pandas, points, footballs and red cards
+                                            </p>
+                                            <p>Midnight Madness - a mass multiplayer game that can support millions of simultaneous participants.<br>The game happens at midnight in a designated timezone where users must guess a number from 1 - 7 after Midnight. The top few hundred winners are 	awarded, the winning is usually milliseconds after Midnight.
+                                            </p>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="tab-4" style="background-size: cover;">
+                                <div class="row" style="background-size: cover;">
+                                    <div class="col-md-12 fadeInRight mb30" data-wow-delay=".30s" style="background-size: cover;">
+                                        <div class="de_count text-left" style="background-size: cover;">
+                                            <h5 class="id-color" style="color: #fff;">NFT based ticketing is under development which cannot be counterfeited yet is easy to use and also 	serves as momento of attendance at an important event.</h5>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+
+
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </section>
+
+
         <section class="home-press gen-width gen-rim">
             <div class="home-press-inner">
 
+<!--                <div class="home-press__item">-->
+<!--                    <div class="home-press__item__img">-->
+<!--                        <img src="assets/img/temp/home-press-2.jpg" alt="">-->
+<!--                    </div>-->
+<!--                    <div class="home-press__item__text">-->
+<!--                        <p>The TFC token ecosystem decentralises with the goal of becoming the Bitcoin of football</p>-->
+<!--                        <a href="https://www.investing.com/news/cryptocurrency-news/the-tfc-token-ecosystem-decentralises-with-the-goal-of-becoming-the-bitcoin-of-football-2531337">Read-->
+<!--                            more</a>-->
+<!--                    </div>-->
+<!--                </div>-->
+
                 <div class="home-press__item">
                     <div class="home-press__item__img">
-                        <img src="assets/img/temp/home-press-2.jpg" alt="">
+                        <img src="assets/img/temp/home-press-2_new.jpg" alt="">
                     </div>
                     <div class="home-press__item__text">
-                        <p>The TFC token ecosystem decentralises with the goal of becoming the Bitcoin of football</p>
-                        <a href="https://www.investing.com/news/cryptocurrency-news/the-tfc-token-ecosystem-decentralises-with-the-goal-of-becoming-the-bitcoin-of-football-2531337">Read
+                        <p>TheFutbolApp (TFA in the app stores) is the flagship app of the TFA platform that attracts community and shows off the underlying power of the TFA Platform to is serve the billion person plus worldwide football community. TFC is the only way to pay for ads in TFA.</p>
+                        <a href="https://www.newsbtc.com/press-releases/tfa-football-nft-marketplace-and-web3-app-to-enter-china-market/">Read
                             more</a>
                     </div>
                 </div>
@@ -266,11 +363,11 @@
                         </div>
                         <div class="home-achievements__partners__logos">
                             <div class="home-achievements__partners__logos__item">
-                                <a href="https://thefutbolapp.com/">
+                                <a href="https://www.apoelfc.com.cy/">
                                     <div class="home-achievements__partners__logos__item__img">
-                                        <img src="assets/img/temp/logo-the-futbol-app.png" alt="">
+                                        <img src="assets/img/temp/APOEL_FC_logo.png" alt="">
                                     </div>
-                                    <p>The Futbol App</p>
+                                    <p>APOEL FC</p>
                                 </a>
                             </div>
 
