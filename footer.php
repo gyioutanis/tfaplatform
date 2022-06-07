@@ -72,7 +72,7 @@
                     <div class="footer__columns__item__list">
                         <ul>
                             <li><a href="mailto:list@thefutbolapp.com">Accept TFC at your business</a></li>
-                            <li><a href="https://www.tfaworldwide.org/">Apply for a grant</a></li>
+                            <li><a href="https://tfaworldwide.org/">Apply for a grant</a></li>
                             <li><a href="https://www.thefutbolapp.com/">Build TFC community</a></li>
                         </ul>
                     </div>

@@ -19,7 +19,7 @@
 
 
                         <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;">
-                            <a href="https://thefutbolapp.com/nft"><img src="assets/img/img-buy-nft_market.svg"
+                            <a href="https://tfamoments.com/"><img src="assets/img/img-buy-nft_market.svg"
                                                                         style="width: 300px;"
                                                                         alt="NFT Marketplace"></a>
                         </div>
@@ -250,16 +250,8 @@
                             </div>
 
 
-
-
-
-
-
-
-
                         </div>
                     </div>
-
 
                 </div>
             </div>
@@ -285,7 +277,7 @@
                         <img src="assets/img/temp/home-press-2_new.jpg" alt="">
                     </div>
                     <div class="home-press__item__text">
-                        <p>TheFutbolApp (TFA in the app stores) is the flagship app of the TFA platform that attracts community and shows off the underlying power of the TFA Platform to is serve the billion person plus worldwide football community. TFC is the only way to pay for ads in TFA.</p>
+                        <p>TFA (TheFutbolApp) has entered into an Agreement with China International Cultural Digital Asset Exchange (CICDAE) to bring football and sports related NFTs to the largest football market in the world. China has over 447 million avid football fans with tremendous interest in NFTs, and CICDAE is the first NFT exchange licensed in China for secondary market trading.</p>
                         <a href="https://www.newsbtc.com/press-releases/tfa-football-nft-marketplace-and-web3-app-to-enter-china-market/">Read
                             more</a>
                     </div>

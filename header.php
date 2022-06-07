@@ -64,7 +64,7 @@
 <!--                        <li><a href="#contact">Contact us</a></li>-->
 <!--                    </ul>-->
                     <div class="header__menu__btn">
-                        <a href="https://thefutbolapp.com/nft"><img src="assets/img/img-buy-nft_market.svg"
+                        <a href="https://tfamoments.com"><img src="assets/img/img-buy-nft_market.svg"
                                                                     alt="NFT Marketplace"></a>
                     </div>
                 </div>
