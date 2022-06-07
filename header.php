@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="cs">
 <head>
-    <meta charset="UTF-8" />
+    <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="pavlovec.net">
-    <title>TFC</title>
+    <title>TFA Platform</title>
 
     <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon/favicon-32x32.png">
@@ -47,34 +47,35 @@
 
 
 <body class="body">
-    <div class="body-inner" id="top">
-        <section class="header-wrap">
-            <header class="header">
-                <div class="header-inner">
-                    <div class="header__logo">
-                        <a href="#top">
-                            <img src="assets/img/logo-tfg.png" alt="logo: TFC" width="33">
-                            <p>TheFutbolCoin</p>
-                        </a>
-                    </div>
+<div class="body-inner" id="top">
+    <section class="header-wrap">
+        <header class="header">
+            <div class="header-inner">
+                <div class="header__logo">
+                    <a href="#top">
+                        <img src="assets/img/logo-tfg.png" alt="logo: TFC" width="33">
+                        <p>TFA Platform</p>
+                    </a>
+                </div>
 
-                    <div class="header__menu">
-                        <ul>
-                            <li><a href="#about">About</a></li>
-                            <li><a href="#contact">Contact us</a></li>
-                        </ul>
-                        <div class="header__menu__btn" >
-                            <a href="https://thefutbolapp.com/nft"><img src="assets/img/img-buy-nft_market.svg" alt="NFT Marketplace"></a>
-                        </div>
-                    </div>
-
-                    <div class="header__burger">
-                        <div class="header__burger-inner">
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                        </div>
+                <div class="header__menu">
+<!--                    <ul>-->
+<!--                        <li><a href="#about">About</a></li>-->
+<!--                        <li><a href="#contact">Contact us</a></li>-->
+<!--                    </ul>-->
+                    <div class="header__menu__btn">
+                        <a href="https://thefutbolapp.com/nft"><img src="assets/img/img-buy-nft_market.svg"
+                                                                    alt="NFT Marketplace"></a>
                     </div>
                 </div>
-            </header>
-        </section>
+
+                <div class="header__burger">
+                    <div class="header__burger-inner">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+        </header>
+    </section>
