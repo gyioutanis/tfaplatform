@@ -10,10 +10,10 @@
 <!--                        <br>-->
                         <br>
                         <h1>TFA Platform</h1>
-                        <h2 style="margin-bottom:100px">Powering the <span class="gen-font-gradient">football</span>
+                        <h2 style="margin-bottom:10px;">Powering the <span class="gen-font-gradient">football</span>
                             <span class="gen-font-gradient">economy</span></h2>
 
-                        <p>TFA Platform is a multi-chain web3 platform with multiple existing applications and services built to power next generation digital interaction between the fans, clubs, players, NFTs, tickets and fan DAO decision making.</p>
+                        <p style="margin-bottom:100px";>TFA Platform is a multi-chain web3 platform with multiple existing applications and services built to power next generation digital interaction between the fans, clubs, players, NFTs, tickets and fan DAO decision making.</p>
 
 
 
