@@ -17,10 +17,17 @@
                             existing applications and services built to power next generation digital interaction
                             between the fans, clubs, players, NFTs, tickets and fan DAO decision making.</p>
 
+
+                        <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;">
+                            <a href="https://thefutbolapp.com/nft"><img src="assets/img/img-buy-nft_market.svg"
+                                                                        style="width: 300px;"
+                                                                        alt="NFT Marketplace"></a>
+                        </div>
+
 <!--                        <p style="margin-bottom:100px;">TFA Platform was designed to supercede existing digital platforms such as Facebook/Meta to the multi-billion person football audience with superior product, web3 privacy, next generation blockchain based integration with NFTs and other blockchain driven services that connect them to the real world as well as to the metaverse.</p>-->
 
                     </div>
-                    <div class="home-intro__text2" id="about">
+                    <div class="home-intro__text2" style="margin-top: 10px;" id="about">
                         <h2>What is <span class="gen-font-gradient">$TFC?</span></h2>
                         <p style="max-width: 700px;">TheFutbolCoin (TFC) is the native token of TFA Platform. TFC is needed to interact with many
                             of the platforms useful features and functionalities. TFC is bridged across from Stellar
@@ -28,11 +35,10 @@
                             smart contract enabled TFA Platform Dapps).</p>
                     </div>
 
+
+
                     <div style="margin-top: 30px;">
-                        <div style="margin-top: 30px;display: inline-block;margin-right:40px;">
-                            <a href="https://thefutbolapp.com/nft"><img src="assets/img/img-buy-nft_market.svg"
-                                                                        alt="NFT Marketplace"></a>
-                        </div>
+
                         <div style="margin-top: 30px;display: inline-block;margin-right:40px;">
                             <a href="https://quickswap.exchange/#/swap?outputCurrency=0xAEB3e641Ec85517A63604CB13FCE73BA22FcC827"><img
                                         src="assets/img/img-buy-on-quickswap.svg"
