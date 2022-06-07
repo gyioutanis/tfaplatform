@@ -13,7 +13,7 @@
                         <h2 style="margin-bottom:10px;">Powering the <span class="gen-font-gradient">football</span>
                             <span class="gen-font-gradient">economy</span></h2>
 
-                        <p style="margin-bottom:10px;">TFA Platform is a multi-chain web3 platform with multiple
+                        <p style="margin-bottom:10px;max-width:700px;">TFA Platform is a multi-chain web3 platform with multiple
                             existing applications and services built to power next generation digital interaction
                             between the fans, clubs, players, NFTs, tickets and fan DAO decision making.</p>
 
