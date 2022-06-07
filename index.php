@@ -27,15 +27,15 @@
                     <div style="margin-top: 30px;">
 
                         <a href="https://thefutbolapp.com/nft"
-                           style="margin-right:40px;"><img src="assets/img/img-buy-nft_market.svg"
+                           style="margin-right:40px;margin-top: 10px;"><img src="assets/img/img-buy-nft_market.svg"
                                                            alt="NFT Marketplace"></a>
 
 
                         <a href="https://quickswap.exchange/#/swap?outputCurrency=0xAEB3e641Ec85517A63604CB13FCE73BA22FcC827"
-                           style="margin-right:40px;"><img src="assets/img/img-buy-on-quickswap.svg"
+                           style="margin-right:40px;margin-top: 10px;"><img src="assets/img/img-buy-on-quickswap.svg"
                                                            alt="Buy on QuickSwap"></a>
 
-                        <a href="https://global.bittrex.com/Market/Index?MarketName=USDT-tfc"><img
+                        <a href="https://global.bittrex.com/Market/Index?MarketName=USDT-tfc" style="margin-top: 10px;"><img
                                     src="assets/img/img-buy-on-bittrex.svg" alt="Buy on Bittrex"></a>
 
                     </div>
