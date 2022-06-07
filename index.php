@@ -181,27 +181,18 @@
 
                     <div class="de_tab tab_simple" style="background-size: cover;">
                         <ul class="col-md-12 de_nav">
-                            <li class="active" style="opacity: 1;width: 24%;max-width: 20%;overflow:hidden;padding: 0px;"><span style="font-size: 18px;font-weight: 600;min-height: 80px;">TFA NFT Platform</span>
-                            </li>
-                            <li class="" style="opacity: 1;width: 20%;max-width: 20%;overflow:hidden;padding: 0px;"><span style="font-size: 18px;font-weight: 600;min-height: 80px;">TFA Wallet and Pay System</span></li>
+
+                            <li class="active" style="opacity: 1;width: 20%;max-width: 20%;overflow:hidden;padding: 0px;"><span style="font-size: 18px;font-weight: 600;min-height: 80px;">TFA Wallet and Pay System</span></li>
                             <li class="" style="opacity: 1;width: 20%;max-width: 20%;overflow:hidden;padding: 0px;"><span style="font-size: 18px;font-weight: 600;min-height: 80px;">TFA Platform Trivia and Games</span>
                             </li>
                             <li class="" style="opacity: 1;width: 20%;max-width: 20%;overflow:hidden;padding: 0px;"><span style="font-size: 18px;font-weight: 600;min-height: 80px;">TFA blockchain ticketing</span>
                             </li>
+                            <li class="" style="opacity: 1;width: 24%;max-width: 20%;overflow:hidden;padding: 0px;"><span style="font-size: 18px;font-weight: 600;min-height: 80px;">TFA fan DAO</span>
+                            </li>
                         </ul>
                         <div class="de_tab_content" style="background-size: cover;">
+
                             <div class="tab-1" style="background-size: cover;">
-                                <div class="row" style="background-size: cover;">
-                                    <div class="col-md-12 fadeInRight mb30" data-wow-delay=".30s" style="background-size: cover;">
-                                        <div class="de_count text-left" style="background-size: cover;">
-                                            <h5 class="id-color" style="color: #fff;">ballers, Kevin Campbell collection. APOEL FC, China exchange as partner</h5>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                            <div class="tab-2" style="background-size: cover;">
                                 <div class="row" style="background-size: cover;">
                                     <div class="col-md-12 fadeInRight mb30" data-wow-delay=".30s" style="background-size: cover;">
                                         <div class="de_count text-left" style="background-size: cover;">
@@ -216,7 +207,7 @@
                                 </div>
                             </div>
 
-                            <div class="tab-3" style="background-size: cover;">
+                            <div class="tab-2" style="background-size: cover;">
                                 <div class="row" style="background-size: cover;">
                                     <div class="col-md-12 fadeInRight mb30" data-wow-delay=".30s" style="background-size: cover;">
                                         <div class="de_count text-left" style="background-size: cover;">
@@ -227,8 +218,20 @@
                                             <br>
                                             <p>pandaMONIUM - a floppy birds style game using Pandas, points, footballs and red cards
                                             </p>
+                                            <br>
                                             <p>Midnight Madness - a mass multiplayer game that can support millions of simultaneous participants.<br>The game happens at midnight in a designated timezone where users must guess a number from 1 - 7 after Midnight. The top few hundred winners are 	awarded, the winning is usually milliseconds after Midnight.
                                             </p>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="tab-3" style="background-size: cover;">
+                                <div class="row" style="background-size: cover;">
+                                    <div class="col-md-12 fadeInRight mb30" data-wow-delay=".30s" style="background-size: cover;">
+                                        <div class="de_count text-left" style="background-size: cover;">
+                                            <h5 class="id-color" style="color: #fff;">NFT based ticketing is under development which cannot be counterfeited yet is easy to use and also 	serves as momento of attendance at an important event.</h5>
                                         </div>
                                     </div>
 
@@ -239,12 +242,18 @@
                                 <div class="row" style="background-size: cover;">
                                     <div class="col-md-12 fadeInRight mb30" data-wow-delay=".30s" style="background-size: cover;">
                                         <div class="de_count text-left" style="background-size: cover;">
-                                            <h5 class="id-color" style="color: #fff;">NFT based ticketing is under development which cannot be counterfeited yet is easy to use and also 	serves as momento of attendance at an important event.</h5>
+                                            <h5 class="id-color" style="color: #fff;">A custom set of DAO smart contracts and voting and management interfaces for use by fans who wish 	to help their clubs and gain influence and benefit from doing so. Fans will send TFC to a DAO smart contract managed by a trustee. The trustee negotiates with the club regarding the powers the club will 	give to the fans (veto right on new coach, veto right on transfers, etc). The DAO will loan the club money by funding the contracts of players approved by the DAO. The borrowed funds are secured with 	tickets and merchandise.</h5>
                                         </div>
                                     </div>
 
                                 </div>
                             </div>
+
+
+
+
+
+
 
 
 
