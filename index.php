@@ -13,7 +13,7 @@
                         <h2 style="margin-bottom:10px;">Powering the <span class="gen-font-gradient">football</span>
                             <span class="gen-font-gradient">economy</span></h2>
 
-                        <p style="margin-bottom:10px;max-width:700px;">TFA Platform is a multi-chain web3 platform with multiple existing applications and services built to power next generation digital interaction between fans, clubs, players, NFTs, tickets and fan DAO decision making.</p>
+                        <p style="margin-bottom:10px;max-width:700px;">TFA Platform is a multi-chain Web3 platform with multiple existing applications and services built to power next generation digital interaction between fans, clubs, players, NFTs, tickets and fan DAO decision making.</p>
 
 
                         <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;">
@@ -145,7 +145,7 @@
                     </div>
 
                     <div class="home-app__text">
-                        <p>TheFutbolApp (TFA) web3 social network showcases the extraordinary integrated power of TFA platform, combing wallet, chats, games, commerce and NFT buying around the 7000+ Clubs tracked live in the app. TFC is the only way to pay for ads in TFA.</p>
+                        <p>TheFutbolApp (TFA) Web3 social network showcases the extraordinary integrated power of TFA platform, combing wallet, chats, games, commerce and NFT buying around the 7000+ Clubs tracked live in the app. TFC is the only way to pay for ads in TFA.</p>
                     </div>
 
                     <div class="home-app__icons">
@@ -173,7 +173,7 @@
         <section class="home-intro-wrap" style="background-color: #000000; background-image: unset;padding-top: 100px;padding-bottom: 100px;">
             <div class="home-app gen-width gen-rim white-font">
                 <div class="home-app-inner">
-                    <h2 style="font-size: 32px;">TFA Platform is now making these integrated web3 services available via an API as well as building out further dapps/apps that will be launched into our fast growing userbase around the world and specifically in China where we have secured a partnership with the first government approved NFT exchange. China is the number 1 market in the world for football with over 400 million avid fans. Below are areas where we are expanding:
+                    <h2 style="font-size: 32px;">TFA Platform is now making these integrated Web3 services available via an API as well as building out further dapps/apps that will be launched into our fast growing userbase around the world and specifically in China where we have secured a partnership with the first government approved NFT exchange. China is the number 1 market in the world for football with over 400 million avid fans. Below are areas where we are expanding:
                     </h2>
 
                     <div class="de_tab tab_simple" style="background-size: cover;">
