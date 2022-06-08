@@ -193,11 +193,7 @@
                                 <div class="row" style="background-size: cover;">
                                     <div class="col-md-12 fadeInRight mb30" data-wow-delay=".30s" style="background-size: cover;">
                                         <div class="de_count text-left" style="background-size: cover;">
-                                            <h5 class="id-color" style="color: #fff;">TFA Platform makes it easy for non-crypto people to hold and use tokens, and additionally enables
-                                                businesses to accept payment with tokens while avoiding volatility associated with crypto through its
-                                                unique virtual stable coin credit system. Merchants get fiat credits in the system for sales, then convert
-                                                that to TFC at the moment they cash out so price stays stable. Close to a hundred businesses in
-                                                Cyprus accept TFC in exchange for goods and services.</h5>
+                                            <h5 class="id-color" style="color: #fff;">TFA Platform makes it easy for non-crypto people to hold and use tokens.    TFA Platform enables businesses to accept payment with tokens while avoiding volatility associated with crypto through its unique virtual stable coin credit system. Merchants get FIAT credits in the system for sales, then convert those credits to TFC at the moment they cash out - so price stays stable. Close to one hundred businesses in Cyprus accept TFC in exchange for goods and services.</h5>
                                         </div>
                                     </div>
 
@@ -208,16 +204,17 @@
                                 <div class="row" style="background-size: cover;">
                                     <div class="col-md-12 fadeInRight mb30" data-wow-delay=".30s" style="background-size: cover;">
                                         <div class="de_count text-left" style="background-size: cover;">
-                                            <h5 class="id-color" style="color: #fff;">	TFA has developed some popular games including:
-                                                Predictions Leagues -  daily predictions leagues and competitions with TFC prizes
-                                                BallerDash - an NFT based arcade game that is used with our very own ballers NFT collection
+                                            <h5 class="id-color" style="color: #fff;">	TFA has developed some popular games that give staking rewards including: 
                                             </h5>
-                                            <br>
-                                            <p>pandaMONIUM - a floppy birds style game using Pandas, points, footballs and red cards
-                                            </p>
-                                            <br>
-                                            <p>Midnight Madness - a mass multiplayer game that can support millions of simultaneous participants.<br>The game happens at midnight in a designated timezone where users must guess a number from 1 - 7 after Midnight. The top few hundred winners are 	awarded, the winning is usually milliseconds after Midnight.
-                                            </p>
+<ul>
+  <li><strong>Predictions Leagues</strong> - daily predictions leagues and competitions with TFC prizes </li>
+  <li><strong>BallerDash  </strong> - an NFT based arcade game that is used with our very own ballers NFT collection</li>
+    <li><strong>pandaMONIUM </strong> - a floppy birds style game using Pandas, points, footballs and red cards</li>
+    <li><strong>Midnight Madness </strong> - a mass multiplayer game that can support millions of simultaneous participants. The game happens at midnight in a designated timezone where users must guess a number from 1 - 7 after Midnight. The top few hundred winners are awarded, the winning is usually milliseconds after Midnight.</li>
+</ul>
+                                                
+                                                
+                 
                                         </div>
                                     </div>
 
