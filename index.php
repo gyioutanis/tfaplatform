@@ -13,9 +13,7 @@
                         <h2 style="margin-bottom:10px;">Powering the <span class="gen-font-gradient">football</span>
                             <span class="gen-font-gradient">economy</span></h2>
 
-                        <p style="margin-bottom:10px;max-width:700px;">TFA Platform is a multi-chain web3 platform with multiple
-                            existing applications and services built to power next generation digital interaction
-                            between the fans, clubs, players, NFTs, tickets and fan DAO decision making.</p>
+                        <p style="margin-bottom:10px;max-width:700px;">TFA Platform is a multi-chain web3 platform with multiple existing applications and services built to power next generation digital interaction between fans, clubs, players, NFTs, tickets and fan DAO decision making.</p>
 
 
                         <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;">
@@ -68,7 +66,7 @@
                             <div class="home-benefits__blocks__item__text">
                                 <h4>What is <span class="gen-font-gradient">$TFC?</span></h4>
                                 <p style="max-width: 700px;">TheFutbolCoin (TFC) is the native token of TFA Platform. TFC is needed to interact with many
-                                    of the platforms useful features and functionalities. TFC is bridged across from Stellar
+                                    of the platform's useful features and functionalities. TFC is bridged across from Stellar
                                     (for fast payments and fiat gateways) to Polygon (for NFTs, staking, DAO voting and other
                                     smart contract enabled TFA Platform Dapps).</p>
 
@@ -147,7 +145,7 @@
                     </div>
 
                     <div class="home-app__text">
-                        <p>TheFutbolApp (TFA in the app stores) is the flagship app of the TFA platform that attracts community and shows off the underlying power of the TFA Platform to is serve the billion person plus worldwide football community. TFC is the only way to pay for ads in TFA.</p>
+                        <p>TheFutbolApp (TFA) web3 social network showcases the extraordinary integrated power of TFA platform, combing wallet, chats, games, commerce and NFT buying around the 7000+ Clubs tracked live in the app. TFC is the only way to pay for ads in TFA.</p>
                     </div>
 
                     <div class="home-app__icons">
@@ -175,7 +173,7 @@
         <section class="home-intro-wrap" style="background-color: #000000; background-image: unset;padding-top: 100px;padding-bottom: 100px;">
             <div class="home-app gen-width gen-rim white-font">
                 <div class="home-app-inner">
-                    <h2 style="font-size: 32px;">In addition to its flagship app, TheFutbolApp, TFA Platform has a suite of apps and services and will soon expose its API to outside developers.
+                    <h2 style="font-size: 32px;">TFA Platform is now making these integrated web3 services available via an API as well as building out further dapps/apps that will be launched into our fast growing userbase around the world and specifically in China where we have secured a partnership with the first government approved NFT exchange. China is the number 1 market in the world for football with over 400 million avid fans. Below are areas where we are expanding:
                     </h2>
 
                     <div class="de_tab tab_simple" style="background-size: cover;">
@@ -195,11 +193,7 @@
                                 <div class="row" style="background-size: cover;">
                                     <div class="col-md-12 fadeInRight mb30" data-wow-delay=".30s" style="background-size: cover;">
                                         <div class="de_count text-left" style="background-size: cover;">
-                                            <h5 class="id-color" style="color: #fff;">TFA Platform makes it easy for non-crypto people to hold and use tokens, and additionally enables
-                                                businesses to accept payment with tokens while avoiding volatility associated with crypto through its
-                                                unique virtual stable coin credit system. Merchants get fiat credits in the system for sales, then convert
-                                                that to TFC at the moment they cash out so price stays stable. Close to a hundred businesses in
-                                                Cyprus accept TFC in exchange for goods and services.</h5>
+                                            <h5 class="id-color" style="color: #fff;">TFA Platform makes it easy for non-crypto people to hold and use tokens.    TFA Platform enables businesses to accept payment with tokens while avoiding volatility associated with crypto through its unique virtual stable coin credit system. Merchants get FIAT credits in the system for sales, then convert those credits to TFC at the moment they cash out - so price stays stable. Close to one hundred businesses in Cyprus accept TFC in exchange for goods and services.</h5>
                                         </div>
                                     </div>
 
@@ -210,16 +204,17 @@
                                 <div class="row" style="background-size: cover;">
                                     <div class="col-md-12 fadeInRight mb30" data-wow-delay=".30s" style="background-size: cover;">
                                         <div class="de_count text-left" style="background-size: cover;">
-                                            <h5 class="id-color" style="color: #fff;">	TFA has developed some popular games including:
-                                                Predictions Leagues -  daily predictions leagues and competitions with TFC prizes
-                                                BallerDash - an NFT based arcade game that is used with our very own ballers NFT collection
+                                            <h5 class="id-color" style="color: #fff;">	TFA has developed some popular games that give staking rewards including: 
                                             </h5>
-                                            <br>
-                                            <p>pandaMONIUM - a floppy birds style game using Pandas, points, footballs and red cards
-                                            </p>
-                                            <br>
-                                            <p>Midnight Madness - a mass multiplayer game that can support millions of simultaneous participants.<br>The game happens at midnight in a designated timezone where users must guess a number from 1 - 7 after Midnight. The top few hundred winners are 	awarded, the winning is usually milliseconds after Midnight.
-                                            </p>
+<ul>
+  <li><strong>Predictions Leagues</strong> - daily predictions leagues and competitions with TFC prizes </li>
+  <li><strong>BallerDash  </strong> - an NFT based arcade game that is used with our very own ballers NFT collection</li>
+    <li><strong>pandaMONIUM </strong> - a floppy birds style game using Pandas, points, footballs and red cards</li>
+    <li><strong>Midnight Madness </strong> - a mass multiplayer game that can support millions of simultaneous participants. The game happens at midnight in a designated timezone where users must guess a number from 1 - 7 after Midnight. The top few hundred winners are awarded, the winning is usually milliseconds after Midnight.</li>
+</ul>
+                                                
+                                                
+                 
                                         </div>
                                     </div>
 
@@ -230,7 +225,7 @@
                                 <div class="row" style="background-size: cover;">
                                     <div class="col-md-12 fadeInRight mb30" data-wow-delay=".30s" style="background-size: cover;">
                                         <div class="de_count text-left" style="background-size: cover;">
-                                            <h5 class="id-color" style="color: #fff;">NFT based ticketing is under development which cannot be counterfeited yet is easy to use and also 	serves as momento of attendance at an important event.</h5>
+                                            <h5 class="id-color" style="color: #fff;">NFT based ticketing is under development which cannot be counterfeited yet is easy to use and also serves as momento of attendance at an important event. TFA app serves as a point of sale for millions of football fans. One touch NFT based ticket buying (with TFC) will be embedded directly in the app where users check daily how their club is doing. We make it very easy to buy NFT tickets (and merchandise) in this way using TFC (one touch).</h5>
                                         </div>
                                     </div>
 
