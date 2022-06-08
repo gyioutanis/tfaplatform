@@ -42,6 +42,41 @@
 
     <?php $file = 'assets/js/header-scripts.js'; ?>
     <script src="<?= $file ?>?v=<?= filectime($file) ?>"></script>
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tw-elements/dist/css/index.min.css" />
+<style type="text/css">
+   
+</style>
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: {
+          sans: ['Inter', 'sans-serif'],
+        },
+      }
+    }
+  }
+  .tfa_tab .tfa_nav {
+      overflow: hidden;
+      padding-left: 0;
+      margin: 0;
+      padding: 0;
+      font-weight: bold;
+}
+.tfa_tab .tfa_nav li {
+  float: left;
+  list-style: none;
+  background: #EEE;
+  margin-right: 10px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+</script>
+<script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/index.min.js"></script>
 
 </head>
 
