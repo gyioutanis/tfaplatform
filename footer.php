@@ -86,8 +86,7 @@
                         <ul>
                             <li><a href="https://quickswap.exchange/#/swap?outputCurrency=0xAEB3e641Ec85517A63604CB13FCE73BA22FcC827">TFC on Quickswap </a>
                             </li>
-                            <li><a href="https://polygonscan.com/token/0xAEB3e641Ec85517A63604CB13FCE73BA22FcC827">Pitch
-                                    Deck</a></li>
+                            <li><a href="https://polygonscan.com/token/0xAEB3e641Ec85517A63604CB13FCE73BA22FcC827">wTFC Contract</a></li>
                             <li>
                                 <a href="https://stellar.expert/explorer/public/asset/TFC-GDS3XDJAA4VY6MJYASIGSIMPHZ7AQNZ54RKLWT7MWCOU5YKYEVCNLVS3">TFC
                                     Ledger Info</a></li>
