@@ -10,7 +10,7 @@
                         <!--                        <br>-->
                         <br>
 <!--                        <h1>TFA Platform</h1>-->
-                        <h2 style="margin-bottom:10px;" class="text-3xl capitalize lg:text-4xl">Powering the <span class="gen-font-gradient">football</span>
+                        <h2 style="margin-bottom:10px;" class="text-6xl capitalize">Powering the <span class="gen-font-gradient">football</span>
                             <span class="gen-font-gradient">economy</span></h2>
 
                         <p style="margin-bottom:10px;max-width:700px;">TFA Platform is a multi-chain Web3 platform with multiple existing applications and services built to power next generation digital interaction between fans, clubs, players, NFTs, tickets and fan DAO decision making.</p>
@@ -64,7 +64,7 @@
                     <div class="home-benefits__blocks">
                         <div class="home-benefits__blocks__item" style="background-color: unset !important;padding-left: 0px;">
                             <div class="home-benefits__blocks__item__text">
-                                <h4 class="text-3xl capitalize lg:text-4xl">What is <span class="gen-font-gradient">$TFC?</span></h4>
+                                <h4 class="text-6xl capitalize">What is <span class="gen-font-gradient">$TFC?</span></h4>
                                 <p style="max-width: 700px;">TheFutbolCoin (TFC) is the native token of TFA Platform. TFC is needed to interact with many
                                     of the platform's useful features and functionalities. TFC is bridged across from Stellar
                                     (for fast payments and fiat gateways) to Polygon (for NFTs, staking, DAO voting and other
@@ -141,7 +141,7 @@
                         <div class="home-app__title__img">
                             <img src="assets/img/temp/panda.png" alt="">
                         </div>
-                        <h2 class="text-3xl capitalize lg:text-4xl">The Futbol<span class="gen-font-gradient">App</span></h2>
+                        <h2 class="text-6xl capitalize">The Futbol<span class="gen-font-gradient">App</span></h2>
                     </div>
 
                     <div class="home-app__text">
@@ -174,7 +174,7 @@
                 <div class="lg:flex lg:items-center">
                     <div class="w-full space-y-12">
                         <div>
-                            <h1 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">Platform<br> <span class="gen-font-gradient">Capabilities</span></h1>
+                            <h1 class="text-6xl font-semibold text-gray-800 capitalize dark:text-white">Platform<br> <span class="gen-font-gradient">Capabilities</span></h1>
                         </div>
 
                         <div class="mt-3 text-gray-500 dark:text-gray-300">TFA Platform is now making these integrated Web3 services available via an API as well as building out further dapps/apps to be launched into our fast growing userbase around the world and specifically in China where we have secured a partnership with the first government approved NFT exchange. China is the number 1 market in the world for football with over 400 million avid fans. Below are areas where we are expanding: </div>
@@ -288,7 +288,7 @@
             <div class="home-press-inner">
  <div class="w-full space-y-12">
                         <div>
-                            <h1 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl">TFA<br> <span class="gen-font-gradient">News</span></h1>
+                            <h1 class="text-6xl font-semibold text-gray-800 capitalize">TFA<br> <span class="gen-font-gradient">News</span></h1>
                         </div>
                     </div>
 <!--                <div class="home-press__item">-->
@@ -352,7 +352,7 @@
             <section class="home-achievements gen-width gen-rim white-font">
                 <div class="home-achievements-inner">
                     <div class="home-achievements__title">
-                        <h2 class="text-3xl capitalize lg:text-4xl">TFC Token<br><span class="gen-font-gradient">Achievements</span></h2>
+                        <h2 class="text-6xl capitalize">TFC Token<br><span class="gen-font-gradient">Achievements</span></h2>
                         <p>TFC (TheFutbolCoin) is a digital asset on the Stellar blockchain.</p>
                     </div>
 
@@ -390,7 +390,7 @@
 
                     <div class="home-achievements__partners">
                         <div class="home-achievements__partners__text">
-                            <h4 class="text-3xl capitalize lg:text-4xl">Partners</h4>
+                            <h4 class="text-6xl capitalize">Partners</h4>
                         </div>
                         <div class="home-achievements__partners__logos">
                             <div class="home-achievements__partners__logos__item">
