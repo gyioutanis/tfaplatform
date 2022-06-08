@@ -206,11 +206,11 @@
                                         <div class="de_count text-left" style="background-size: cover;">
                                             <h5 class="id-color" style="color: #fff;">	TFA has developed some popular games that give staking rewards including: 
                                             </h5>
-<ul>
-  <li><strong>Predictions Leagues</strong> - daily predictions leagues and competitions with TFC prizes </li>
-  <li><strong>BallerDash  </strong> - an NFT based arcade game that is used with our very own ballers NFT collection</li>
-    <li><strong>pandaMONIUM </strong> - a floppy birds style game using Pandas, points, footballs and red cards</li>
-    <li><strong>Midnight Madness </strong> - a mass multiplayer game that can support millions of simultaneous participants. The game happens at midnight in a designated timezone where users must guess a number from 1 - 7 after Midnight. The top few hundred winners are awarded, the winning is usually milliseconds after Midnight.</li>
+<ul class="id-color" style="color: #fff;">
+  <li class="id-color" style="color: #fff;"><strong>Predictions Leagues</strong> - daily predictions leagues and competitions with TFC prizes </li>
+  <li class="id-color" style="color: #fff;"><strong>BallerDash  </strong> - an NFT based arcade game that is used with our very own ballers NFT collection</li>
+    <li class="id-color" style="color: #fff;"><strong>pandaMONIUM </strong> - a floppy birds style game using Pandas, points, footballs and red cards</li>
+    <li class="id-color" style="color: #fff;"><strong>Midnight Madness </strong> - a mass multiplayer game that can support millions of simultaneous participants. The game happens at midnight in a designated timezone where users must guess a number from 1 - 7 after Midnight. The top few hundred winners are awarded, the winning is usually milliseconds after Midnight.</li>
 </ul>
                                                 
                                                 
