@@ -2,7 +2,7 @@
     <section class="gen-width gen-rim white-font">
         <section class="gen-title gen-title--center">
             <div class="gen-title-inner">
-                <h2>Follow the <span class="gen-font-gradient">Journey</span></h2>
+                <h2 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl">Follow the <span class="gen-font-gradient">Journey</span></h2>
                 <p>Follow us on social media and join to fast growing TFA social network.</p>
             </div>
         </section>

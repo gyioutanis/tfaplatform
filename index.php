@@ -10,7 +10,7 @@
                         <!--                        <br>-->
                         <br>
 <!--                        <h1>TFA Platform</h1>-->
-                        <h2 style="margin-bottom:10px;">Powering the <span class="gen-font-gradient">football</span>
+                        <h2 style="margin-bottom:10px;" class="text-3xl capitalize lg:text-4xl">Powering the <span class="gen-font-gradient">football</span>
                             <span class="gen-font-gradient">economy</span></h2>
 
                         <p style="margin-bottom:10px;max-width:700px;">TFA Platform is a multi-chain Web3 platform with multiple existing applications and services built to power next generation digital interaction between fans, clubs, players, NFTs, tickets and fan DAO decision making.</p>
@@ -141,7 +141,7 @@
                         <div class="home-app__title__img">
                             <img src="assets/img/temp/panda.png" alt="">
                         </div>
-                        <h2>The Futbol<span class="gen-font-gradient">App</span></h2>
+                        <h2 class="text-3xl capitalize lg:text-4xl">The Futbol<span class="gen-font-gradient">App</span></h2>
                     </div>
 
                     <div class="home-app__text">
@@ -169,8 +169,8 @@
             </div>
         </section>
 
-<section class="dark:bg-gray-900" style="overflow-anchor: none;"> 
-            <div class="container px-6 py-10 mx-auto">
+<section class="dark:bg-gray-900 " style="overflow-anchor: none;"> 
+            <div class="container px-6 py-10 mx-auto max-w-7xl">
                 <div class="lg:flex lg:items-center">
                     <div class="w-full space-y-12">
                         <div>
@@ -282,8 +282,15 @@
 
 
         <section class="home-press gen-width gen-rim">
-            <div class="home-press-inner">
 
+
+
+            <div class="home-press-inner">
+ <div class="w-full space-y-12">
+                        <div>
+                            <h1 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl">TFA<br> <span class="gen-font-gradient">News</span></h1>
+                        </div>
+                    </div>
 <!--                <div class="home-press__item">-->
 <!--                    <div class="home-press__item__img">-->
 <!--                        <img src="assets/img/temp/home-press-2.jpg" alt="">-->
@@ -345,7 +352,7 @@
             <section class="home-achievements gen-width gen-rim white-font">
                 <div class="home-achievements-inner">
                     <div class="home-achievements__title">
-                        <h2>TFC Token<br><span class="gen-font-gradient">Achievements</span></h2>
+                        <h2 class="text-3xl capitalize lg:text-4xl">TFC Token<br><span class="gen-font-gradient">Achievements</span></h2>
                         <p>TFC (TheFutbolCoin) is a digital asset on the Stellar blockchain.</p>
                     </div>
 
@@ -383,7 +390,7 @@
 
                     <div class="home-achievements__partners">
                         <div class="home-achievements__partners__text">
-                            <h4>Partners</h4>
+                            <h4 class="text-3xl capitalize lg:text-4xl">Partners</h4>
                         </div>
                         <div class="home-achievements__partners__logos">
                             <div class="home-achievements__partners__logos__item">
