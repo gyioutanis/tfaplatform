@@ -173,7 +173,7 @@
         <section class="home-intro-wrap" style="background-color: #000000; background-image: unset;padding-top: 100px;padding-bottom: 100px;">
             <div class="home-app gen-width gen-rim white-font">
                 <div class="home-app-inner">
-                    <h2 style="font-size: 32px;">TFA Platform is now making these integrated Web3 services available via an API as well as building out further dapps/apps that will be launched into our fast growing userbase around the world and specifically in China where we have secured a partnership with the first government approved NFT exchange. China is the number 1 market in the world for football with over 400 million avid fans. Below are areas where we are expanding:
+                    <h2 style="font-size: 22px;">TFA Platform is now making these integrated Web3 services available via an API as well as building out further dapps/apps to be launched into our fast growing userbase around the world and specifically in China where we have secured a partnership with the first government approved NFT exchange. China is the number 1 market in the world for football with over 400 million avid fans. Below are areas where we are expanding:
                     </h2>
 
                     <div class="de_tab tab_simple" style="background-size: cover;">
@@ -193,7 +193,7 @@
                                 <div class="row" style="background-size: cover;">
                                     <div class="col-md-12 fadeInRight mb30" data-wow-delay=".30s" style="background-size: cover;">
                                         <div class="de_count text-left" style="background-size: cover;">
-                                            <h5 class="id-color" style="color: #fff;">TFA Platform makes it easy for non-crypto people to hold and use tokens.    TFA Platform enables businesses to accept payment with tokens while avoiding volatility associated with crypto through its unique virtual stable coin credit system. Merchants get FIAT credits in the system for sales, then convert those credits to TFC at the moment they cash out - so price stays stable. Close to one hundred businesses in Cyprus accept TFC in exchange for goods and services.</h5>
+                                            <h5 class="id-color" style="color: #fff;font-size: 22px;">TFA Platform makes it easy for non-crypto people to hold and use tokens.    TFA Platform enables businesses to accept payment with tokens while avoiding volatility associated with crypto through its unique virtual stable coin credit system. Merchants get FIAT credits in the system for sales, then convert those credits to TFC at the moment they cash out - so price stays stable. Close to one hundred businesses in Cyprus accept TFC in exchange for goods and services.</h5>
                                         </div>
                                     </div>
 
@@ -204,13 +204,13 @@
                                 <div class="row" style="background-size: cover;">
                                     <div class="col-md-12 fadeInRight mb30" data-wow-delay=".30s" style="background-size: cover;">
                                         <div class="de_count text-left" style="background-size: cover;">
-                                            <h5 class="id-color" style="color: #fff;">	TFA has developed some popular games that give staking rewards including: 
+                                            <h5 class="id-color" style="color: #fff;font-size: 22px;" >	TFA has developed some popular games that give staking rewards including: 
                                             </h5>
-<ul class="id-color" style="color: #fff;">
-  <li class="id-color" style="color: #fff;"><strong>Predictions Leagues</strong> - daily predictions leagues and competitions with TFC prizes </li>
-  <li class="id-color" style="color: #fff;"><strong>BallerDash  </strong> - an NFT based arcade game that is used with our very own ballers NFT collection</li>
-    <li class="id-color" style="color: #fff;"><strong>pandaMONIUM </strong> - a floppy birds style game using Pandas, points, footballs and red cards</li>
-    <li class="id-color" style="color: #fff;"><strong>Midnight Madness </strong> - a mass multiplayer game that can support millions of simultaneous participants. The game happens at midnight in a designated timezone where users must guess a number from 1 - 7 after Midnight. The top few hundred winners are awarded, the winning is usually milliseconds after Midnight.</li>
+<ul class="id-color" style="color: #fff;font-size: 22px;">
+  <li class="id-color" style="color: #fff;font-size: 22px;"><strong>Predictions Leagues</strong> - daily predictions leagues and competitions with TFC prizes </li>
+  <li class="id-color" style="color: #fff;font-size: 22px;"><strong>BallerDash  </strong> - an NFT based arcade game that is used with our very own ballers NFT collection</li>
+    <li class="id-color" style="color: #fff;font-size: 22px;"><strong>pandaMONIUM </strong> - a floppy birds style game using Pandas, points, footballs and red cards</li>
+    <li class="id-color" style="color: #fff;font-size: 22px;"><strong>Midnight Madness </strong> - a mass multiplayer game that can support millions of simultaneous participants. The game happens at midnight in a designated timezone where users must guess a number from 1 - 7 after Midnight. The top few hundred winners are awarded, the winning is usually milliseconds after Midnight.</li>
 </ul>
                                                 
                                                 
@@ -225,7 +225,7 @@
                                 <div class="row" style="background-size: cover;">
                                     <div class="col-md-12 fadeInRight mb30" data-wow-delay=".30s" style="background-size: cover;">
                                         <div class="de_count text-left" style="background-size: cover;">
-                                            <h5 class="id-color" style="color: #fff;">NFT based ticketing is under development which cannot be counterfeited yet is easy to use and also serves as momento of attendance at an important event. TFA app serves as a point of sale for millions of football fans. One touch NFT based ticket buying (with TFC) will be embedded directly in the app where users check daily how their club is doing. We make it very easy to buy NFT tickets (and merchandise) in this way using TFC (one touch).</h5>
+                                            <h5 class="id-color" style="color: #fff;font-size: 22px;">NFT based ticketing is under development which cannot be counterfeited yet is easy to use and also serves as momento of attendance at an important event. TFA app serves as a point of sale for millions of football fans. One touch NFT based ticket buying (with TFC) will be embedded directly in the app where users check daily how their club is doing. We make it very easy to buy NFT tickets (and merchandise) in this way using TFC (one touch).</h5>
                                         </div>
                                     </div>
 
@@ -236,7 +236,7 @@
                                 <div class="row" style="background-size: cover;">
                                     <div class="col-md-12 fadeInRight mb30" data-wow-delay=".30s" style="background-size: cover;">
                                         <div class="de_count text-left" style="background-size: cover;">
-                                            <h5 class="id-color" style="color: #fff;">A custom set of DAO smart contracts and voting and management interfaces for use by fans who wish 	to help their clubs and gain influence and benefit from doing so. Fans will send TFC to a DAO smart contract managed by a trustee. The trustee negotiates with the club regarding the powers the club will 	give to the fans (veto right on new coach, veto right on transfers, etc). The DAO will loan the club money by funding the contracts of players approved by the DAO. The borrowed funds are secured with 	tickets and merchandise.</h5>
+                                            <h5 class="id-color" style="color: #fff;font-size: 22px;">A custom set of DAO smart contracts and voting and management interfaces for use by fans who wish 	to help their clubs and gain influence and benefit from doing so. Fans will send TFC to a DAO smart contract managed by a trustee. The trustee negotiates with the club regarding the powers the club will 	give to the fans (veto right on new coach, veto right on transfers, etc). The DAO will loan the club money by funding the contracts of players approved by the DAO. The borrowed funds are secured with 	tickets and merchandise.</h5>
                                         </div>
                                     </div>
 
