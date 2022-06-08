@@ -145,7 +145,7 @@
                     </div>
 
                     <div class="home-app__text">
-                        <p>TheFutbolApp (TFA) Web3 social network showcases the extraordinary integrated power of TFA platform, combing wallet, chats, games, commerce and NFT buying around the 7000+ Clubs tracked live in the app. TFC is the only way to pay for ads in TFA.</p>
+                        <p>TheFutbolApp (TFA) Web3 social network showcases the extraordinary integrated power of TFA platform, combining wallet, chats, games, commerce and NFT buying around the 7000+ Clubs tracked live in the app. TFC is the only way to pay for ads in TFA.</p>
                     </div>
 
                     <div class="home-app__icons">
