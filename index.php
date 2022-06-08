@@ -64,7 +64,7 @@
                     <div class="home-benefits__blocks">
                         <div class="home-benefits__blocks__item" style="background-color: unset !important;padding-left: 0px;">
                             <div class="home-benefits__blocks__item__text">
-                                <h4>What is <span class="gen-font-gradient">$TFC?</span></h4>
+                                <h4 class="text-3xl capitalize lg:text-4xl">What is <span class="gen-font-gradient">$TFC?</span></h4>
                                 <p style="max-width: 700px;">TheFutbolCoin (TFC) is the native token of TFA Platform. TFC is needed to interact with many
                                     of the platform's useful features and functionalities. TFC is bridged across from Stellar
                                     (for fast payments and fiat gateways) to Polygon (for NFTs, staking, DAO voting and other
