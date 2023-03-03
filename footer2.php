@@ -81,8 +81,8 @@
                         </div>
                         <div class="footer__columns__item__list">
                             <ul>
-                                <li><a href="https://thefutbolcoin.com/assets/resources/TFC-WhitePaper-03March.pdf">Whitepaper</a></li>
-                                <li><a href="https://thefutbolcoin.com/assets/resources/tfa-deck-15-march.pdf">Pitch Deck</a></li>
+                                <li><a href="assets/resources/TFC-WhitePaper-03March.pdf">Whitepaper</a></li>
+                                <li><a href="assets/resources/tfa-deck-15-march.pdf">Pitch Deck</a></li>
                                 <li><a href="https://stellar.expert/explorer/public/asset/TFC-GDS3XDJAA4VY6MJYASIGSIMPHZ7AQNZ54RKLWT7MWCOU5YKYEVCNLVS3">TFC Ledger Info</a></li>
                             </ul>
                         </div>

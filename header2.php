@@ -17,9 +17,9 @@
     <?php $file = 'assets/css/dist/tailwind.css'; ?>
     <link rel="stylesheet" href="<?= $file ?>?v=<?= filectime($file) ?>">
 
-    <link rel="stylesheet" id="et-core-unified-156-cached-inline-styles" href="https://thefutbolcoin.com/assets/css/et-core-unified-156-16225187649028.min.css" />
-    <link rel='stylesheet' id='parent-style-css'  href='https://thefutbolcoin.com/assets/css/autoptimize_single_4c8dd51c4a2753b61893c0e94c0fe24d.css?ver=5.7.2' type='text/css' media='all' />
-    <link rel="stylesheet" id="et-core-unified-tb-169-156-cached-inline-styles" href="https://thefutbolcoin.com/assets/css/et-core-unified-tb-169-156-16225187649028.min.css" />
+    <link rel="stylesheet" id="et-core-unified-156-cached-inline-styles" href="assets/css/et-core-unified-156-16225187649028.min.css" />
+    <link rel='stylesheet' id='parent-style-css'  href='assets/css/autoptimize_single_4c8dd51c4a2753b61893c0e94c0fe24d.css?ver=5.7.2' type='text/css' media='all' />
+    <link rel="stylesheet" id="et-core-unified-tb-169-156-cached-inline-styles" href="assets/css/et-core-unified-tb-169-156-16225187649028.min.css" />
 
 
 
@@ -48,9 +48,9 @@
     <?php $file = 'assets/js/header-scripts.js'; ?>
     <script src="<?= $file ?>?v=<?= filectime($file) ?>"></script>
 
-    <script defer type='text/javascript' src='https://thefutbolcoin.com/assets/js/autoptimize_single_177d9519de792c0016c6ddce17f9a062.js?ver=4.7.7' id='divi-custom-script-js'></script>
-    <script defer type='text/javascript' src='https://thefutbolcoin.com/assets/js/autoptimize_single_82b34a0f20682b94458a89521a92c7ca.js?ver=4.7.7' id='et-core-common-js'></script>
-    <script defer type='text/javascript' src='https://thefutbolcoin.com/assets/js/wp-embed.min.js?ver=5.7.2' id='wp-embed-js'></script>
+    <script defer type='text/javascript' src='assets/js/autoptimize_single_177d9519de792c0016c6ddce17f9a062.js?ver=4.7.7' id='divi-custom-script-js'></script>
+    <script defer type='text/javascript' src='assets/js/autoptimize_single_82b34a0f20682b94458a89521a92c7ca.js?ver=4.7.7' id='et-core-common-js'></script>
+    <script defer type='text/javascript' src='assets/js/wp-embed.min.js?ver=5.7.2' id='wp-embed-js'></script>
 </head>
 
 
