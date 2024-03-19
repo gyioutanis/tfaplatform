@@ -167,7 +167,7 @@ img {
 .bg-white {
   background-color: #ffffff !important; }
 
-@font-face {
+@ font-face {
   font-family: Inter;
   src: url("../../fonts/Inter//Inter-VariableFont_slnt,wght.ttf") format("truetype");
   font-weight: 1 999;

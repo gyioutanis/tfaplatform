@@ -141,7 +141,7 @@
             </section>
         </section>
 
-        <section class="home-intro-wrap" style="background-image: url('assets/img/temp/home-banner-bg.jpg');">
+        <section class="home-intro-wrap" style="display:none;background-image: url('assets/img/temp/home-banner-bg.jpg');">
             <div class="home-intro gen-width gen-rim white-font">
                 <div class="home-intro-inner">
                     <div class="home-intro__text">
@@ -155,7 +155,7 @@
         </section>
 
 
-        <section class="home-app-wrap white-font" style="background-image: url('assets/img/temp/home-app-bg.jpg');">
+        <section class="home-app-wrap white-font" style="display:none;background-image: url('assets/img/temp/home-app-bg.jpg');">
             <div class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular et_pb_section_first"
                  data-fix-page-container="on" style="padding-top: 182px;">
 
